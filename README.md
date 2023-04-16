@@ -1,0 +1,1 @@
+My Frontend Validation Form uses HTML, JS, and Bootstrap 4 for accurate data entry. Validation rules include Username (no spaces), Password (min 8 characters, no spaces), Confirm Password (must match), First Name, Last Name, Gender, and Email (required). Real-time feedback prevents errors for a seamless user experience.
